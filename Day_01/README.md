@@ -9,9 +9,9 @@
 **Topic:** ETL, ELT, Data Pipelines, Batch Processing, and Streaming  
 **Assessment Type:** Scenario-Based Logical Reasoning  
 **Total Questions:** 20  
-**Correct Answers:** 19  
+**Correct Answers:** 18
 **Incorrect Answers:** 1  
-**Final Score:** 19/20 (95%)
+**Final Score:** 18/20 (90%)
 
 ---
 
