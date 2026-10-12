@@ -1,4 +1,4 @@
-# ETL vs ELT Fundamentals — Exam 02 Report
+# ETL vs ELT Fundamentals 
 
 <p align="center">
   <img src="test.png" alt="ETL vs ELT Exam  Results" width="700">
