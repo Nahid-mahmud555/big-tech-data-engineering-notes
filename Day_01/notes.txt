@@ -1,0 +1,19 @@
+Another Step Forward in My Data Engineering Journey | ETL & ELT Fundamentals
+
+Today, I practiced my understanding of Data Engineering fundamentals through a scenario-based assessment.
+
+Topics I Learned and Practiced:
+
+• Data Engineering Fundamentals
+• Data Pipelines and Their Workflow
+• ETL (Extract, Transform, Load)
+• ELT (Extract, Load, Transform)
+• Key Differences Between ETL and ELT
+
+Assessment Result: 18/20
+
+This practice helped me strengthen my fundamental knowledge and improve my understanding of ETL and ELT through practical scenarios.
+
+I'm focusing on learning step by step and building a strong foundation for my journey toward becoming an AI Data Engineer.
+
+#DataEngineering #AIDataEngineering #ETL #ELT #DataPipelines #LearningInPublic #ContinuousLearning
